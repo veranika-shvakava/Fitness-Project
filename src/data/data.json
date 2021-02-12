@@ -1,0 +1,188 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "search": [
+    {
+      "title": "xорошее начало",
+      "descr": "sdsdjkhfkjsdf",
+      "picture": "http://localhost:5500/dist/c7eea5a95e1e6895ea0d.jpg",
+      "link": "http://127.0.0.1:5500/dist/index.html#/programs/goodstart/"
+    },
+    {
+      "title": "cтройность",
+      "picture": "http://localhost:5500/dist/7f9a28233fadbf6e8da3.jpg",
+      "link": "http://127.0.0.1:5500/dist/index.html#/programs/slimness/"
+    },
+    {
+      "title": "без напряжения",
+      "picture": "http://localhost:5500/dist/585ab81107be4244bd7a.jpg",
+      "link": "http://127.0.0.1:5500/dist/index.html#/programs/withoutequipment/"
+    },
+    {
+      "title": "твое домашнее преимущество",
+      "picture": "http://localhost:5500/dist/6867de9a18acbc8268bc.jpg",
+      "link": "/#/"
+    },
+    {
+      "title": "персональные программы тренировок специально для тебя",
+      "picture": "http://localhost:5500/dist/3eac58e9509bef092eaa.jpg",
+      "link": "/#/"
+    },
+    {
+      "title": "тренируйся как тебе удобно",
+      "picture": "http://localhost:5500/dist/2eccb3dbe56f668e3515.jpg",
+      "link": "/#/"
+    },
+    {
+      "title": "подборки рекомендованных тренировок",
+      "picture": "http://localhost:5500/dist/5e85a64a1664469f776a.jpg",
+      "link": "/#/"
+    },
+    {
+      "title": "тренировка в зале",
+      "picture": "http://localhost:5500/dist/c814be86f74fb8f37e93.jpg",
+      "link": "http://localhost:5500/dist/index.html#/programs/gymworkout/"
+    },
+    {
+      "title": "йога на каждый день",
+      "workouts": "12 тренировок",
+      "level": "все уровни",
+      "picture": "http://localhost:5500/dist/c8295801c09476d1667b.jpg",
+      "link": "http://127.0.0.1:5500/dist/index.html#/collections/"
+    },
+    {
+      "title": "заряд позитива",
+      "workouts": "12 тренировок",
+      "level": "все уровни",
+      "picture": "http://localhost:5500/dist/e2c09953f035c2b09da5.jpg",
+      "link": "http://127.0.0.1:5500/dist/index.html#/collections/"
+    },
+    {
+      "title": "для всей семьи",
+      "workouts": "16 тренировок",
+      "level": "все уровни",
+      "picture": "http://localhost:5500/dist/68a1727160aea7abde78.jpg",
+      "link": "http://127.0.0.1:5500/dist/index.html#/collections/"
+    },
+    {
+      "title": "большие тренировки для больших пространств",
+      "workouts": "12 тренировок",
+      "level": "все уровни",
+      "picture": "http://localhost:5500/dist/c2762ec86e26454c29db.jpg",
+      "link": "http://127.0.0.1:5500/dist/index.html#/collections/"
+    },
+    {
+      "title": "синхронизируй тренировки с циклом",
+      "workouts": "12 тренировок",
+      "level": "все уровни",
+      "picture": "http://localhost:5500/dist/1f9c0fc54956bdcd7970.jpg",
+      "link": "http://127.0.0.1:5500/dist/index.html#/collections/"
+    },
+    {
+      "title": "кросс-тренинг для совершенствования навыков",
+      "workouts": "10 тренировок",
+      "level": "начальный и средний уровни",
+      "picture": "http://localhost:5500/dist/ec9a58f781b0f7611c36.jpg",
+      "link": "http://127.0.0.1:5500/dist/index.html#/collections/"
+    },
+    {
+      "title": "отдых от офисной работы",
+      "workouts": "4 тренировки",
+      "level": "начальный уровень",
+      "picture": "http://localhost:5500/dist/4b6d9e959ca9786076cd.jpg",
+      "link": "http://127.0.0.1:5500/dist/index.html#/collections/"
+    },
+    {
+      "title": "успеть за 20 минут",
+      "workouts": "10 тренировок",
+      "level": "начальный и средний уровни",
+      "picture": "http://localhost:5500/dist/6419188fda924cc0fe03.jpg",
+      "link": "/#/collections/"
+    },
+    {
+      "title": "йога, чтобы прокачать тренировки",
+      "workouts": "6 тренировок",
+      "level": "все уровни",
+      "picture": "http://localhost:5500/dist/224fbb605d6210b3b153.jpg",
+      "link": "http://127.0.0.1:5500/dist/index.html#/collections/"
+    },
+    {
+      "title": "получи максимум от тренировки",
+      "workouts": "10 тренировок",
+      "level": "средний и продвинутый уровни",
+      "picture": "http://localhost:5500/dist/bf2edaa21cb0855e0c51.jpg",
+      "link": "http://127.0.0.1:5500/dist/index.html#/collections/"
+    },
+    {
+      "title": "динамическая разминка для атлетов",
+      "workouts": "4 тренировки",
+      "level": "начальный и средний уровни",
+      "picture": "http://localhost:5500/dist/6dac2dddf7abb362d403.jpg",
+      "link": "http://127.0.0.1:5500/dist/index.html#/collections/"
+    },
+    {
+      "title": "Занятия после кардиотренировок",
+      "workouts": "6 тренировок",
+      "level": "начальный и средний уровни",
+      "picture": "http://localhost:5500/dist/d0ad9ce0fb8578568f47.jpg",
+      "link": "http://127.0.0.1:5500/dist/index.html#/collections/"
+    },
+    {
+      "title": "мощный кор для мощных пробежек",
+      "workouts": "8 тренировок",
+      "level": "начальный и средний уровни",
+      "picture": "http://localhost:5500/dist/344de2ec313c23c12d87.jpg",
+      "link": "http://127.0.0.1:5500/dist/index.html#/collections/"
+    },
+    {
+      "title": "простые привычки для отличных пробежек",
+      "workouts": "6 тренировок",
+      "level": "все уровни",
+      "picture": "http://localhost:5500/dist/092c0834c3a7fbad54d1.jpg",
+      "link": "http://127.0.0.1:5500/dist/index.html#/collections/"
+    },
+    {
+      "title": "лучше для пресса, рук и ягодиц",
+      "workouts": "12 тренировок",
+      "level": "все уровни",
+      "picture": "http://localhost:5500/dist/5aa1f3736e8318dff310.jpg",
+      "link": "http://127.0.0.1:5500/dist/index.html#/collections/"
+    },
+    {
+      "title": "сильный и рельефный пресс",
+      "workouts": "8 тренировок",
+      "level": "все уровни",
+      "picture": "http://localhost:5500/dist/9034db6e74e6b30b0837.jpg",
+      "link": "http://127.0.0.1:5500/dist/index.html#/collections/"
+    },
+    {
+      "title": "развивай силу и будь в тонусе",
+      "workouts": "6 тренировок",
+      "level": "все уровни",
+      "picture": "http://localhost:5500/dist/a9312fdca2328d2476d9.jpg",
+      "link": "http://127.0.0.1:5500/dist/index.html#/collections/"
+    },
+    {
+      "title": "сохраняй активность в выходные",
+      "workouts": "8 тренировок",
+      "level": "все уровни",
+      "picture": "http://localhost:5500/dist/bc6e73205496141c2c78.jpg",
+      "link": "http://127.0.0.1:5500/dist/index.html#/collections/"
+    }
+  ]
+}
